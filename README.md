@@ -6,21 +6,10 @@ Built with **React**, **Node.js**, and **MySQL**, ServEase offers real-time paym
 ---
 
 ## 🛠 Tech Stack
-
-**Frontend:**  
-- React.js  
-- Bootstrap / Tailwind CSS  
-
-**Backend:**  
-- Node.js + Express.js  
-
-**Database:**  
-- MySQL  
-
-**Others:**  
-- Nodemailer (Email notifications)  
-- Multer (File uploads)  
-- JWT (Authentication)  
+Frontend: React.js, Bootstrap/Tailwind CSS  
+Backend: Node.js & Express.js  
+Database: MySQL  
+Others: Nodemailer (emails), Multer (uploads)
 
 ---
 
