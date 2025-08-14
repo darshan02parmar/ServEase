@@ -45,22 +45,22 @@ ServEase/                  # Root project folder
 ## Installation & Setup
 To get ServEase up and running on your local machine, follow these steps:
 
-# 1. Clone the Repository
+## 1. Clone the Repository
 ```bash
 git clone https://github.com/darshan02parmar/ServEase.git
 cd ServEase
 ```
 
-# 2. Backend Setup
-# Navigate to the backend directory, install dependencies, and start the server:
+## 2. Backend Setup
+## Navigate to the backend directory, install dependencies, and start the server:
 ```bash
 cd backend
 npm install
 node db.js
 ```
 
-# 3. Frontend Setup
-# Navigate to the user directory, install dependencies, and start the React development server:
+## 3. Frontend Setup
+## Navigate to the user directory, install dependencies, and start the React development server:
 ```bash
 cd ../user
 npm install
