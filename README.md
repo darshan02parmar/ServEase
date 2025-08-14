@@ -52,7 +52,7 @@ cd ServEase
 ```
 
 ## 2. Backend Setup
-## Navigate to the backend directory, install dependencies, and start the server:
+
 ```bash
 cd backend
 npm install
@@ -60,8 +60,8 @@ node db.js
 ```
 
 ## 3. Frontend Setup
-## Navigate to the user directory, install dependencies, and start the React development server:
 ```bash
+
 cd ../user
 npm install
 npm start
