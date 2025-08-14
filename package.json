@@ -1,40 +1,7 @@
 {
-  "name": "service-booking-app",
-  "version": "1.0.0",
-  "description": "A full-stack service booking application with React frontend and Node.js backend",
-  "main": "index.js",
-  "scripts": {
-    "install-all": "npm install && cd backend && npm install && cd ../user && npm install",
-    "start-backend": "cd backend && npm start",
-    "start-frontend": "cd user && npm start",
-    "build": "cd user && npm run build",
-    "dev": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react",
-    "nodejs",
-    "express",
-    "mysql",
-    "service-booking",
-    "fullstack"
-  ],
-  "author": "Your Name",
-  "license": "MIT",
   "dependencies": {
     "express": "^5.1.0",
     "multer": "^2.0.2"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/darshan02parmar/ServEase.git"
-  },
-  "bugs": {
-    "url": "https://github.com/darshan02parmar/ServEase.git"
-  },
-  "homepage": "https://github.com/darshan02parmar/ServEase"
+  }
 }
 
